@@ -1,5 +1,6 @@
-# Features
+# Clientexec Telegram Notification for Admin
 
+## Features
 - **Notifications on:**
   - Ticket Creation
   - New Invoices
@@ -10,7 +11,7 @@
 - **Regular Updates**
 - **New Notification Type**
 
-# Setup Instructions
+## Setup Instructions
 
 1. Upload the file to `/plugins/snapin/` in the Clientexec installed folder.
 2. Navigate to **Settings > Plugins > Snapins**.
